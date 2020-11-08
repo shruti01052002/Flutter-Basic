@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget
       Scaffold provide the structure to our app*/
 //build is a method whenever we create object of MyApp then build ethod will call
 /*
- 1. There are two types of wiidgets 
+ 1. There are two types of widgets 
     a. Stateless
     b. Stateful
  2. If a widget changes the user interacts with it, i.e., Stateful widget.
